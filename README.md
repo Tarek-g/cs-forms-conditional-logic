@@ -2,6 +2,8 @@
 
 Frontend conditional logic (show/hide) for **Cornerstone Forms** fields.
 
+![Conditional Logic UI](assets/images/ui-preview.png)
+
 ## Scope
 
 Supported element types:
